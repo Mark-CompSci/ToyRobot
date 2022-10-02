@@ -13,7 +13,7 @@ Java files
     - Main.java
     - ToyRobot.java
   - com.java.toyRobot.test
-    -ToyRobotTest.java
+    - ToyRobotTest.java
 
 JUnit Test files:
   - com.java.toyRobot.test
